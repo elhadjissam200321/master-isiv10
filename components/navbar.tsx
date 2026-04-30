@@ -13,7 +13,7 @@ export default function Navbar() {
   const [navLinks, setNavLinks] = useState<{ href: string, label: string }[]>([
     { href: "/", label: "Accueil" },
     { href: "/programme", label: "Programme" },
-    { href: "https://master-isiv10.vercel.app/alumni", label: "Promotions" },
+    { href: "/promotions", label: "Promotions" },
     { href: "/actualites", label: "Actualités" },
     { href: "/enseignants", label: "Enseignants" },
     { href: "/contact", label: "Contact" },
