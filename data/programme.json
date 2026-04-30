@@ -1,0 +1,150 @@
+{
+    "hero": {
+        "title": "Présentation du Master ISI",
+        "subtitle": "Master en Ingénierie des Systèmes Intelligents – Diplôme national de Master accrédité par le Ministère de l'Enseignement Supérieur.",
+        "breadcrumb": "Programme"
+    },
+    "quickInfo": [
+        {
+            "icon": "Clock",
+            "label": "Durée",
+            "value": "2 ans (4 semestres)"
+        },
+        {
+            "icon": "Award",
+            "label": "Diplôme",
+            "value": "Master national accrédité"
+        },
+        {
+            "icon": "Users",
+            "label": "Capacité",
+            "value": "60 étudiants/an"
+        },
+        {
+            "icon": "Globe",
+            "label": "Langue",
+            "value": "Français / Anglais"
+        }
+    ],
+    "objectives": [
+        "Maîtriser les fondamentaux des systèmes et réseaux : Linux/Windows, TCP/IP, DNS, VPN et environnements distribués",
+        "Déployer et gérer des infrastructures Cloud : architectures AWS, Azure ou GCP avec scalabilité et haute disponibilité",
+        "Automatiser les déploiements et les processus (DevOps) : CI/CD, Docker, Kubernetes, Terraform, Ansible",
+        "Sécuriser les systèmes et les applications : vulnérabilités, cybersécurité, monitoring et détection",
+        "Administrer et maintenir des infrastructures IT : serveurs, supervision, sauvegarde et virtualisation",
+        "Superviser et optimiser les performances des systèmes : Prometheus, Grafana, analyse de logs et SRE mindset"
+    ],
+    "careerOutcomes": [
+        {
+            "role": "Spécialiste Cybersécurité / Analyste SOC",
+            "sectors": "Sécurité Informatique : Protection, gestion des risques, SIEM, pentest"
+        },
+        {
+            "role": "Ingénieur Cloud (AWS / Azure / GCP)",
+            "sectors": "Cloud Computing : Déploiement d’infrastructures, gestion des services, scalabilité"
+        },
+        {
+            "role": "Ingénieur DevOps / SRE",
+            "sectors": "DevOps : Automatisation CI/CD, conteneurisation, monitoring"
+        },
+        {
+            "role": "Administrateur Systèmes & Réseaux",
+            "sectors": "Administration Systèmes : Gestion des serveurs, virtualisation, maintenance IT"
+        }
+    ],
+    "semesterModules": {
+        "s1": {
+            "name": "Semestre 1",
+            "description": "Fondamentaux et bases théoriques",
+            "modules": [
+                { "name": "Mathématiques pour l'analyse des données", "prof": "Pr. CHERGUI", "icon": "BarChart" },
+                { "name": "Structure des données avancées", "prof": "Pr. ELKASMI", "icon": "Code" },
+                { "name": "Développement web full stack", "prof": "Pr. CHANYOUR", "icon": "Globe" },
+                { "name": "Innovation et Intelligence Artificielle", "prof": "Pr. MADRANE", "icon": "Brain" },
+                { "name": "Développement avancé des bases de données", "prof": "Pr. DEHBI", "icon": "Database" },
+                { "name": "Programmation Python", "prof": "Pr. RAOUAYANE", "icon": "Code" },
+                { "name": "Anglais scientifique", "prof": "FSAC", "icon": "BookOpen" }
+            ]
+        },
+        "s2": {
+            "name": "Semestre 2",
+            "description": "Approfondissement et technologies avancées",
+            "modules": [
+                { "name": "Sécurité des systèmes d'information", "prof": "Pr. FEJTAH", "icon": "Shield" },
+                { "name": "Administration avancée des bases de données", "prof": "Pr. DEHBI", "icon": "Database" },
+                { "name": "Méthodologie de recherche scientifique", "prof": "Pr. BENABDELLAH", "icon": "BookOpen" },
+                { "name": "Traitement des données massives (Big Data)", "prof": "Pr. ANDALOUSSI", "icon": "BarChart" },
+                { "name": "Internet des objets (IoT)", "prof": "Pr. ERRAIS", "icon": "Network" },
+                { "name": "Technologie web sémantique", "prof": "Pr. CHBIHI", "icon": "Globe" },
+                { "name": "Culture entrepreneuriale", "prof": "Intervenant externe", "icon": "Users" }
+            ]
+        },
+        "s3": {
+            "name": "Semestre 3",
+            "description": "Spécialisation (Parcours au choix)",
+            "options": [
+                {
+                    "key": "crs",
+                    "name": "Cloud, Réseaux & Sécurité (CRS)",
+                    "color": "bg-blue-600",
+                    "modules": [
+                        { "name": "SDN & Réseaux de nouvelle génération", "prof": "Pr. RAOUYANE", "icon": "Network" },
+                        { "name": "Ethical Hacking", "prof": "Pr. FEJTAH", "icon": "Shield" },
+                        { "name": "Virtualisation des systèmes & Cloud", "prof": "Pr. ERRAIS", "icon": "Cloud" }
+                    ]
+                },
+                {
+                    "key": "sd",
+                    "name": "Science des Données (DS)",
+                    "color": "bg-teal-600",
+                    "modules": [
+                        { "name": "Traitement des données multimédia", "prof": "Pr. ANDALOUSSI", "icon": "Database" },
+                        { "name": "Analyse des données dans le Web", "prof": "Pr. BAHANI", "icon": "BarChart" },
+                        { "name": "Ingénierie des ontologies", "prof": "Pr. CHBIHI", "icon": "Brain" }
+                    ]
+                },
+                {
+                    "key": "gl",
+                    "name": "Génie Logiciel (GL)",
+                    "color": "bg-indigo-600",
+                    "modules": [
+                        { "name": "Développement Mobile", "prof": "Pr. KASMI", "icon": "Cpu" },
+                        { "name": "Techniques et outils pour la réalisation des logiciels", "prof": "Pr. MADRANE", "icon": "Code" },
+                        { "name": "Ingénierie dirigée par les modèles", "prof": "Pr. BENABDELLAH", "icon": "BookOpen" },
+                        { "name": "Développement J2EE", "prof": "Pr. CHBIHI", "icon": "Code" }
+                    ]
+                }
+            ],
+            "commonModules": [
+                { "name": "Systèmes répartis", "prof": "Pr. KEBIRA", "icon": "Cloud" },
+                { "name": "Architecture Microservice", "prof": "Pr. OUASSIT", "icon": "Network" },
+                { "name": "Apprentissage Automatique (ML)", "prof": "Pr. CHIBA", "icon": "Brain" }
+            ]
+        },
+        "s4": {
+            "name": "Semestre 4",
+            "description": "Stage et mémoire de fin d'études (PFE)",
+            "modules": [
+                { "name": "Stage en entreprise (5-6 mois)", "prof": "Encadrant académique + professionnel", "icon": "Users" },
+                { "name": "Mémoire de recherche / PFE", "prof": "Directeur de recherche", "icon": "BookOpen" }
+            ]
+        }
+    },
+    "s4Section": {
+        "badge": "Semestre 4",
+        "title": "Stage & Mémoire de Fin d'Études (PFE)",
+        "description": "Le quatrième semestre est entièrement consacré à un stage en entreprise ou à un mémoire de recherche d'une durée de 5 à 6 mois, suivi d'une soutenance devant un jury académique et professionnel.",
+        "items": [
+            "Stage en entreprise (5-6 mois)",
+            "Projet de recherche encadré",
+            "Rédaction du mémoire de fin d'études",
+            "Soutenance devant un jury mixte"
+        ]
+    },
+    "cta": {
+        "title": "Prêt à rejoindre le Master ISI ?",
+        "description": "Consultez les conditions d'admission et déposez votre candidature pour la prochaine rentrée universitaire.",
+        "primaryText": "Voir les conditions d'admission",
+        "secondaryText": "Nous contacter"
+    }
+}

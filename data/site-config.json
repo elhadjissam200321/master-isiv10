@@ -1,0 +1,48 @@
+{
+    "siteName": "Master ISI",
+    "universityName": "Université Hassan II de Casablanca",
+    "facultyName": "Faculté des Sciences Aïn Chock",
+    "universityUrl": "https://www.univh2c.ma/",
+    "socials": {
+        "linkedin": "https://www.linkedin.com/company/master-isi-fsac/"
+    },
+    "navigation": [
+        {
+            "label": "Accueil",
+            "href": "/"
+        },
+        {
+            "label": "Programme",
+            "href": "/programme"
+        },
+        {
+            "label": "Promotions",
+            "href": "/alumni"
+        },
+        {
+            "label": "Actualités",
+            "href": "/actualites"
+        },
+        {
+            "label": "Enseignants",
+            "href": "/enseignants"
+        },
+        {
+            "label": "Contact",
+            "href": "/contact"
+        }
+    ],
+    "footer": {
+        "usefulLinks": [],
+        "masterLinks": [
+            {
+                "label": "Le programme ISI",
+                "href": "/programme#modules"
+            },
+            {
+                "label": "Partenaires industriels",
+                "href": "/#partners"
+            }
+        ]
+    }
+}

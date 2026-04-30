@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Oracle",
+        "logo": "/images/partners/oracle.png"
+    },
+    {
+        "id": 2,
+        "name": "OCP Group",
+        "logo": "/images/partners/ocp.png"
+    },
+    {
+        "id": 3,
+        "name": "Spotify",
+        "logo": "/images/partners/spotify.png"
+    },
+    {
+        "id": 4,
+        "name": "DataProtect",
+        "logo": "/images/partners/dataprotect.png"
+    },
+    {
+        "id": 5,
+        "name": "CBI",
+        "logo": "/images/partners/cbi.png"
+    }
+]

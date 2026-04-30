@@ -1,0 +1,107 @@
+{
+    "stats": [
+        {
+            "value": "2",
+            "label": "Années de formation",
+            "icon": "GraduationCap"
+        },
+        {
+            "value": "20+",
+            "label": "Modules spécialisés",
+            "icon": "BookOpen"
+        },
+        {
+            "value": "15+",
+            "label": "Enseignants-chercheurs",
+            "icon": "Users"
+        },
+        {
+            "value": "100+",
+            "label": "Alumni actifs",
+            "icon": "Award"
+        }
+    ],
+    "pillars": [
+        {
+            "icon": "Shield",
+            "title": "Cloud, Réseaux & Sécurité (CRS)",
+            "desc": "Maîtrise des infrastructures Cloud, administration réseaux avancée et cybersécurité des systèmes.",
+            "color": "bg-blue-600"
+        },
+        {
+            "icon": "BarChart",
+            "title": "Science des Données (DS)",
+            "desc": "Expertise en analyse de données massives, Big Data, et extraction de connaissances pour l'aide à la décision.",
+            "color": "bg-teal-600"
+        },
+        {
+            "icon": "Code",
+            "title": "Génie Logiciel (GL)",
+            "desc": "Conception d'architectures logicielles complexes, microservices et management de projets informatiques avancés.",
+            "color": "bg-indigo-600"
+        }
+    ],
+    "hero": {
+        "badge": "Formation d'excellence",
+        "title": "Ingénierie des Systèmes Intelligents",
+        "subtitle": "Faculté des Sciences Aïn Chock, Université Hassan II de Casablanca",
+        "description": "Le Master ISI forme des ingénieurs experts en Intelligence Artificielle, Machine Learning et Data Science pour répondre aux enjeux de la transformation numérique.",
+        "cta_primary": "Espace Étudiant",
+        "cta_secondary": "Télécharger la brochure",
+        "image": "/images/hero-neural.jpg"
+    },
+    "why_isi": {
+        "badge": "Pourquoi nous choisir",
+        "title": "Une formation d'excellence ancrée dans le monde professionnel",
+        "points": [
+            {
+                "icon": "Users",
+                "text": "Accompagnement personnalisé par des experts et académiciens"
+            },
+            {
+                "icon": "Target",
+                "text": "Curriculum aligné sur les besoins actuels du marché de l'IA"
+            },
+            {
+                "icon": "Cpu",
+                "text": "Projets réels avec des entreprises tech partenaires de Casablanca"
+            }
+        ],
+        "image": "/images/formation.png",
+        "cta": "Voir le programme complet"
+    },
+    "coordinator": {
+        "badge": "Mot du Coordonnateur",
+        "name": "Pr. ERRAIS MOHAMMED",
+        "title": "Coordonnateur du Master ISI",
+        "message": "Notre mission au sein du Master ISI est de former une nouvelle génération d'experts capables de relever les défis de l'Intelligence Artificielle. En alliant rigueur académique et immersion professionnelle, nous offrons à nos étudiants les clés de la réussite dans un monde en pleine mutation numérique.",
+        "initials": "EM"
+    },
+    "alumni_section": {
+        "badge": "Témoignages",
+        "title": "Nos alumni parlent de nous",
+        "description": "Découvrez les parcours réussis de nos anciens étudiants intégrés dans les meilleures entreprises.",
+        "cta": "Voir tous les témoignages"
+    },
+    "partners_section": {
+        "badge": "Partenariats",
+        "title": "Nos partenaires industriels",
+        "description": "Le Master ISI bénéficie du soutien d'entreprises et d'organisations de premier plan."
+    },
+    "pillars_section": {
+        "badge": "Domaines de formation",
+        "title": "axes technologiques d'excellence",
+        "description": "Le Master ISI couvre les disciplines fondamentales des systèmes intelligents pour former des ingénieurs polyvalents et opérationnels."
+    },
+    "news_section": {
+        "badge": "Actualités",
+        "title": "Dernières nouvelles",
+        "cta": "Toutes les actus"
+    },
+    "cta_band": {
+        "title": "Rejoignez la prochaine promotion du Master ISI",
+        "description": "Les candidatures pour l'année universitaire 2025-2026 sont ouvertes. Déposez votre dossier avant la date limite.",
+        "cta_primary": "Espace Étudiant",
+        "cta_secondary": "Nous contacter"
+    }
+}

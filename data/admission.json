@@ -1,0 +1,107 @@
+{
+    "hero": {
+        "title": "Admission au Master ISI",
+        "subtitle": "Conditions d'accès, dossier de candidature et calendrier de sélection pour rejoindre le Master en Ingénierie des Systèmes Intelligents.",
+        "breadcrumb": "Admission"
+    },
+    "alert": {
+        "title": "Date limite de candidature :",
+        "text": "Dépôt du dossier complet requis avant 17h00.",
+        "deadline": "30 juin 2025"
+    },
+    "conditions": [
+        "Être titulaire d'une Licence (Bac+3) en Informatique, Mathématiques, Physique ou discipline connexe",
+        "Avoir validé des modules de base en programmation, algorithmique et mathématiques",
+        "Justifier d'un niveau B2 minimum en français (et/ou en anglais)",
+        "Tout profil avec une expérience professionnelle solide en IT sera étudié"
+    ],
+    "docs": [
+        {
+            "icon": "FileText",
+            "label": "Relevés de notes Licence (S1 à S6)"
+        },
+        {
+            "icon": "FileText",
+            "label": "Diplôme de Licence ou attestation de réussite"
+        },
+        {
+            "icon": "User",
+            "label": "Curriculum Vitae détaillé (CV)"
+        },
+        {
+            "icon": "FileText",
+            "label": "Lettre de motivation (1 à 2 pages)"
+        },
+        {
+            "icon": "FileText",
+            "label": "Copie de la CIN ou Passeport"
+        },
+        {
+            "icon": "FileText",
+            "label": "2 photos d'identité"
+        },
+        {
+            "icon": "FileText",
+            "label": "Lettre(s) de recommandation (optionnel)"
+        }
+    ],
+    "timeline": [
+        {
+            "period": "1er – 30 Mai 2025",
+            "step": "Ouverture des candidatures en ligne",
+            "status": "past"
+        },
+        {
+            "period": "1er – 30 Juin 2025",
+            "step": "Dépôt des dossiers (en ligne ou au secrétariat)",
+            "status": "current"
+        },
+        {
+            "period": "Juillet 2025",
+            "step": "Étude des dossiers par la commission",
+            "status": "upcoming"
+        },
+        {
+            "period": "Fin Juillet 2025",
+            "step": "Résultats de la présélection et convocations",
+            "status": "upcoming"
+        },
+        {
+            "period": "Août 2025",
+            "step": "Entretiens de sélection et tests écrits",
+            "status": "upcoming"
+        },
+        {
+            "period": "Septembre 2025",
+            "step": "Résultats définitifs et inscription administrative",
+            "status": "upcoming"
+        },
+        {
+            "period": "Octobre 2025",
+            "step": "Début des cours – Promotion 2025/2027",
+            "status": "upcoming"
+        }
+    ],
+    "faq": [
+        {
+            "q": "Peut-on candidater avec une Licence professionnelle ?",
+            "a": "Oui, les titulaires d'une Licence professionnelle en informatique ou domaine connexe peuvent candidater. Le dossier sera examiné au cas par cas par la commission d'admission."
+        },
+        {
+            "q": "Le Master ISI est-il ouvert aux étudiants étrangers ?",
+            "a": "Oui, les candidatures d'étudiants étrangers sont acceptées. Des équivalences de diplômes peuvent être requises. Merci de prendre contact avec le secrétariat."
+        },
+        {
+            "q": "Y a-t-il des bourses ou aides financières disponibles ?",
+            "a": "Les étudiants marocains peuvent bénéficier des bourses du Ministère de l'Enseignement Supérieur. Des aides spécifiques peuvent être disponibles via des partenariats entreprises."
+        },
+        {
+            "q": "Comment se déroule l'entretien de sélection ?",
+            "a": "L'entretien porte sur le projet professionnel du candidat, ses connaissances en informatique et mathématiques, et sa motivation pour le domaine de l'IA."
+        }
+    ],
+    "cta": {
+        "title": "Des questions sur votre candidature ?",
+        "subtitle": "Notre équipe pédagogique est disponible pour vous accompagner."
+    }
+}

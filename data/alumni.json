@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ABBA MOHSSINE",
+        "promo": "2025",
+        "role": "Data Scientist",
+        "company": "OCP Group",
+        "review": "Le Master ISI m'a fourni les compétences solides en IA et Machine Learning qui m'ont permis de relever les défis technologiques chez OCP.",
+        "avatar": "AM"
+    },
+    {
+        "id": 2,
+        "name": "AYA BECHCHAR",
+        "promo": "2025",
+        "role": "Ingénieure IA",
+        "company": "Attijariwafa bank",
+        "review": "Une formation d'excellence avec des projets concrets. La combinaison théorie-pratique m'a préparée parfaitement au monde professionnel.",
+        "avatar": "AB"
+    },
+    {
+        "id": 3,
+        "name": "YASSINE GOUCH",
+        "promo": "2025",
+        "role": "ML Engineer",
+        "company": "Avansecret",
+        "review": "Les laboratoires bien équipés et l'encadrement des enseignants m'ont permis de développer des compétences avancées en Deep Learning.",
+        "avatar": "YG"
+    },
+    {
+        "id": 4,
+        "name": "HIBA NASSI",
+        "promo": "2025",
+        "role": "Data Analyst",
+        "company": "Société Générale",
+        "review": "Le réseau alumni et les partenariats avec les entreprises m'ont facilité l'accès à des opportunités professionnelles de qualité.",
+        "avatar": "HN"
+    }
+]

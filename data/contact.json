@@ -1,0 +1,14 @@
+{
+    "email": "master.isi.pro@gmail.com",
+    "phone": "+212 522 23 06 80",
+    "address": "Km 8 Route d'El Jadida, B.P 5366 Maarif, Casablanca 20100, Maroc",
+    "locationName": "Faculté des Sciences Aïn Chock",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.263842144498!2d-7.658694084798226!3d33.54542745133626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d29668f44d8b%3A0x7d6a4c28f11d13f!2sFacult%C3%A9%20des%20Sciences%20A%C3%AFn%20Chock!5e0!3m2!1sfr!2sma!4v1712060000000!5m2!1sfr!2sma",
+    "googleMapsLink": "https://www.google.com/maps/search/?api=1&query=Facult%C3%A9+des+Sciences+A%C3%AFn+Chock+Casablanca",
+    "itineraryLink": "https://www.google.com/maps/dir//Facult%C3%A9+des+Sciences+A%C3%AFn+Chock,+Casablanca,+Morocco",
+    "openingHours": {
+        "week": "08h00 - 17h00",
+        "friday": "08h00 - 12h30 et 14h30 - 17h00",
+        "weekend": "Fermé"
+    }
+}

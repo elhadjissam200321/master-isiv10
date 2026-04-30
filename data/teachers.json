@@ -1,0 +1,130 @@
+[
+    {
+        "id": 16,
+        "name": "Pr. ERRAIS MOHAMMED",
+        "title": "Coordonnateur du Master ISI",
+        "role": "Professeur de l'Enseignement Supérieur",
+        "speciality": "IoT, Cloud Computing, Réseaux",
+        "color": "bg-primary"
+    },
+    {
+        "id": 1,
+        "name": "Pr. AZBEG KEBIRA",
+        "title": "Professeure de l'Enseignement Supérieur",
+        "role": "Enseignante-chercheuse",
+        "speciality": "Systèmes Distribués",
+        "color": "bg-accent"
+    },
+    {
+        "id": 2,
+        "name": "Pr. BAHANI KHALID",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Analyse des Données",
+        "color": "bg-accent"
+    },
+    {
+        "id": 3,
+        "name": "Pr. BENABDELLAH CHAOUNI SAMIA",
+        "title": "Professeure de l'Enseignement Supérieur",
+        "role": "Enseignante-chercheuse",
+        "speciality": "Recherche Scientifique, IDM",
+        "color": "bg-accent"
+    },
+    {
+        "id": 4,
+        "name": "Pr. CHANYOUR TARIK",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Développement Full Stack",
+        "color": "bg-accent"
+    },
+    {
+        "id": 5,
+        "name": "Pr. CHBIHI LOUHDI MOHAMMED REDA",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Web Sémantique, J2EE",
+        "color": "bg-accent"
+    },
+    {
+        "id": 6,
+        "name": "Pr. CHERGUI BRAHIM",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Mathématiques des Données",
+        "color": "bg-primary"
+    },
+    {
+        "id": 7,
+        "name": "Pr. CHIBA ZOUHAIR",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Machine Learning (ML)",
+        "color": "bg-primary"
+    },
+    {
+        "id": 8,
+        "name": "Pr. DEHBI RACHID",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Bases de Données, Big Data",
+        "color": "bg-primary"
+    },
+    {
+        "id": 9,
+        "name": "Pr. EL KASMI ALAOUI MOULAY SEDDIQ",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Programmation Python",
+        "color": "bg-primary"
+    },
+    {
+        "id": 10,
+        "name": "Pr. FETJAH LAILA",
+        "title": "Professeure de l'Enseignement Supérieur",
+        "role": "Enseignante-chercheuse",
+        "speciality": "Sécurité & Hacking",
+        "color": "bg-primary"
+    },
+    {
+        "id": 11,
+        "name": "Pr. JAI ANDALOUSSI SAID",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Big Data, Multimédia",
+        "color": "bg-accent"
+    },
+    {
+        "id": 12,
+        "name": "Pr. MADRANE NABIL",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Génie Logiciel, IA",
+        "color": "bg-primary"
+    },
+    {
+        "id": 13,
+        "name": "Pr. OUASSIT YOUSSEF",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Microservices",
+        "color": "bg-accent"
+    },
+    {
+        "id": 14,
+        "name": "Pr. RAOUYANE BRAHIM",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "Réseaux, Systèmes Distribués",
+        "color": "bg-accent"
+    },
+    {
+        "id": 15,
+        "name": "Pr. SAOUDI EL MEHDI",
+        "title": "Professeur de l'Enseignement Supérieur",
+        "role": "Enseignant-chercheur",
+        "speciality": "IA Agentique",
+        "color": "bg-primary"
+    }
+]

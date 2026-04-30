@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "slug": "irict-2025",
+    "title": "IRICT 2025 : 8e Conférence Internationale à l'Université Hassan II",
+    "excerpt": "Contribution majeure du Master ISI à la 8th International Conference on Reliable Information and Communication Technology.",
+    "content": "<p>Le Master Ingénierie des Systèmes Intelligents (ISI) est fier d'annoncer sa participation active à l'<strong>IRICT 2025</strong>, la 8ème édition de la prestigieuse Conférence Internationale sur les Technologies de l'Information et de la Communication Fiables, accueillie par l'Université Hassan II de Casablanca.</p><h2>Innovation et Recherche de Pointe</h2><p>Cet événement scientifique de premier plan a été l'occasion pour nos chercheurs et étudiants de présenter des travaux novateurs.</p>",
+    "category": "Conférence",
+    "date": "Mars 2025",
+    "readTime": "4 min",
+    "author": "Équipe de Recherche ISI",
+    "image": "/images/events/event-irict-2025.jpg",
+    "views": 0,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "cyber-women-awards-2025",
+    "title": "Excellence : Distinction aux Cyber Women Global Awards 2025",
+    "excerpt": "Une chercheuse de l'équipe Master ISI honorée dans la catégorie Monde lors d'une cérémonie prestigieuse à Paris.",
+    "content": "<p>C'est avec une immense fierté que le Master ISI annonce la distinction exceptionnelle de l'une de ses chercheuses éminentes, honorée lors des <strong>Cyber Women Global Awards 2025</strong> à Paris.</p>",
+    "category": "Distinction",
+    "date": "Mars 2025",
+    "readTime": "3 min",
+    "author": "Administration FSAC",
+    "image": "/images/events/event-cyber-women.jpg",
+    "views": 0,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "formation-ia-agentique",
+    "title": "Formation Intensive : L'Ère des Agents Autonomes (IA Agentique)",
+    "excerpt": "Immersion dans les nouvelles frontières de l'IA avec une formation dédiée aux systèmes décisionnels autonomes.",
+    "content": "<p>L'intelligence artificielle entre dans une nouvelle phase : celle de l'<strong>IA Agentique</strong>. Le Master ISI a récemment organisé une session de formation intensive dédiée aux systèmes autonomes.</p>",
+    "category": "Formation",
+    "date": "10 Mars 2025",
+    "readTime": "5 min",
+    "author": "Pr. DEHBI",
+    "image": "/images/events/event-ia-agentique.jpg",
+    "views": 0,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "slug": "oracle-office-tour",
+    "title": "Oracle Office Tour : Immersion et Networking Professionnel",
+    "excerpt": "Une journée d'échanges privilégiés entre les étudiants du Master ISI et les experts d'Oracle Maroc.",
+    "content": "<p>Dans le cadre de son programme d'ouverture sur le monde professionnel, les étudiants du Master ISI ont été accueillis dans les locaux d'<strong>Oracle Maroc</strong> pour une journée d'immersion riche.</p>",
+    "category": "Événement",
+    "date": "Mars 2025",
+    "readTime": "4 min",
+    "author": "Relations Entreprises",
+    "image": "/images/events/event-oracle.jpg",
+    "views": 0,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "admission-2025-2026",
+    "title": "Admissions 2025-2026 : Rejoignez l'Élite de l'IA au Maroc",
+    "excerpt": "Ouverture des candidatures pour la prochaine promotion du Master en Ingénierie des Systèmes Intelligents.",
+    "content": "<p>Le Master en <strong>Ingénierie des Systèmes Intelligents (ISI)</strong> de la Faculté des Sciences Aïn Chock (FSAC) annonce l'ouverture officielle de sa campagne de recrutement pour l'année universitaire 2025-2026.</p>",
+    "category": "Admission",
+    "date": "15 Mars 2025",
+    "readTime": "3 min",
+    "author": "Direction Master ISI",
+    "image": "/images/hero-neural.jpg",
+    "views": 0,
+    "featured": false
+  }
+]
